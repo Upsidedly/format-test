@@ -1,0 +1,13 @@
+{
+  "name": "testes",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"No test specified\"",
+    "live": "live-server --port=6969 --quiet ./public"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

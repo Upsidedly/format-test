@@ -1,0 +1,32 @@
+@font-face {
+    font-family: 'DM Sans';
+    src: url('fonts/DM-Sans-Regular.ttf');
+}
+
+@font-face {
+    font-family: Inconsolata;
+    src: url('fonts/Inconsolata.ttf');
+}
+
+img.emoji {
+    height: 1em;
+    width: 1em;
+    margin: 0 .05em 0 .1em;
+    vertical-align: -0.1em;
+ }
+
+p {
+    font-size: 2rem;
+}
+
+html {
+    font-family: 'DM Sans';
+    scroll-behavior: smooth;
+}
+
+code {
+    font-family: Inconsolata;
+    font-size: 1.4rem;
+    color: rgb(187, 187, 187);
+    display: block;
+}
